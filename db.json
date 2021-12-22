@@ -1,0 +1,32 @@
+{
+  "books": [
+    {
+      "title": "The Alchemist",
+      "author": "Paulo Cohelo",
+      "price": 22,
+      "rating": 5,
+      "id": 1
+    },
+    {
+      "title": "Monk who sold his ferrari",
+      "author": "Robin sharma",
+      "price": 34,
+      "rating": 3,
+      "id": 2
+    },
+    {
+      "title": "Power of Now",
+      "author": "Eckhart Tolle",
+      "price": 23,
+      "rating": 4,
+      "id": 3
+    },
+    {
+      "title": "The secret",
+      "author": "Rhonda Byrne",
+      "price": 12,
+      "rating": 5,
+      "id": 4
+    }
+  ]
+}
